@@ -1,0 +1,1 @@
+﻿select First_Name, Last_Name, Email, Department_Name, Location_ID from Employees Inner Join Departments on Employees.Department_No = Departments.Department_No

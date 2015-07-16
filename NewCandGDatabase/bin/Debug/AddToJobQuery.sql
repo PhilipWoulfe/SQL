@@ -1,0 +1,1 @@
+﻿INsert into Jobs (Job_ID, Job_Title, Min_Salary, Max_Salary) Values ('AC_ASST', 'Accounting Assistant', 7000, 10000);

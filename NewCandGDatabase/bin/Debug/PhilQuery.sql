@@ -1,0 +1,1 @@
+﻿Select First_Name, Last_Name, Annual_Salary, Commission_Percent, (Annual_Salary + (Annual_Salary * Commission_Percent)) as Total_Salary from Employees where Commission_Percent Is not null order by Commission_Percent

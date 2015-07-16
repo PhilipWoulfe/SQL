@@ -1,0 +1,1 @@
+﻿select Phone_Number, Job_ID from Employees where Annual_Salary * 0.9 > 20000 

@@ -1,0 +1,14 @@
+C:\Users\blue7\Documents\Philip\SQL\PatsClothesShop\bin\Debug\PatsClothesShop.exe.config
+C:\Users\blue7\Documents\Philip\SQL\PatsClothesShop\bin\Debug\PatsClothesShop.mdf
+C:\Users\blue7\Documents\Philip\SQL\PatsClothesShop\bin\Debug\PatsClothesShop_log.ldf
+C:\Users\blue7\Documents\Philip\SQL\PatsClothesShop\bin\Debug\PatsClothesShop.exe
+C:\Users\blue7\Documents\Philip\SQL\PatsClothesShop\bin\Debug\PatsClothesShop.pdb
+C:\Users\blue7\Documents\Philip\SQL\PatsClothesShop\obj\Debug\PatsClothesShop.csprojResolveAssemblyReference.cache
+C:\Users\blue7\Documents\Philip\SQL\PatsClothesShop\obj\Debug\PatsClothesShop.Form1.resources
+C:\Users\blue7\Documents\Philip\SQL\PatsClothesShop\obj\Debug\PatsClothesShop.Properties.Resources.resources
+C:\Users\blue7\Documents\Philip\SQL\PatsClothesShop\obj\Debug\PatsClothesShop.csproj.GenerateResource.Cache
+C:\Users\blue7\Documents\Philip\SQL\PatsClothesShop\obj\Debug\PatsClothesShop.exe
+C:\Users\blue7\Documents\Philip\SQL\PatsClothesShop\obj\Debug\PatsClothesShop.pdb
+C:\Users\blue7\Documents\Philip\SQL\PatsClothesShop\obj\Debug\PatsClothesShop.Form2.resources
+C:\Users\blue7\Documents\Philip\SQL\PatsClothesShop\obj\Debug\PatsClothesShop.Form3.resources
+C:\Users\blue7\Documents\Philip\SQL\PatsClothesShop\obj\Debug\PatsClothesShop.Form4.resources
