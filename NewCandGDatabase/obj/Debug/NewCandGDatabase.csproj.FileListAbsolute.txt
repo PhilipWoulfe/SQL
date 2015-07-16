@@ -1,1 +1,10 @@
 C:\Users\blue7\Documents\Philip\SQL\NewCandGDatabase\bin\Debug\NewCandGDatabase.exe.config
+E:\DropBox\Dropbox\Development\SQL\NewCandGDatabase\bin\Debug\NewCandGDatabase.exe.config
+E:\DropBox\Dropbox\Development\SQL\NewCandGDatabase\bin\Debug\Database1.mdf
+E:\DropBox\Dropbox\Development\SQL\NewCandGDatabase\bin\Debug\Database1_log.ldf
+E:\DropBox\Dropbox\Development\SQL\NewCandGDatabase\bin\Debug\NewCandGDatabase.exe
+E:\DropBox\Dropbox\Development\SQL\NewCandGDatabase\bin\Debug\NewCandGDatabase.pdb
+E:\DropBox\Dropbox\Development\SQL\NewCandGDatabase\obj\Debug\NewCandGDatabase.Properties.Resources.resources
+E:\DropBox\Dropbox\Development\SQL\NewCandGDatabase\obj\Debug\NewCandGDatabase.csproj.GenerateResource.Cache
+E:\DropBox\Dropbox\Development\SQL\NewCandGDatabase\obj\Debug\NewCandGDatabase.exe
+E:\DropBox\Dropbox\Development\SQL\NewCandGDatabase\obj\Debug\NewCandGDatabase.pdb

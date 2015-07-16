@@ -1,1 +1,12 @@
 C:\Users\blue7\Documents\Philip\SQL\CandGDatabase\bin\Debug\CandGDatabase.exe.config
+E:\DropBox\Dropbox\Development\SQL\CandGDatabase\bin\Debug\CandGDatabase.exe.config
+E:\DropBox\Dropbox\Development\SQL\CandGDatabase\bin\Debug\CGDatabase.mdf
+E:\DropBox\Dropbox\Development\SQL\CandGDatabase\bin\Debug\CGDatabase_log.ldf
+E:\DropBox\Dropbox\Development\SQL\CandGDatabase\bin\Debug\CandGDatabase.exe
+E:\DropBox\Dropbox\Development\SQL\CandGDatabase\bin\Debug\CandGDatabase.pdb
+E:\DropBox\Dropbox\Development\SQL\CandGDatabase\obj\Debug\CandGDatabase.Properties.Resources.resources
+E:\DropBox\Dropbox\Development\SQL\CandGDatabase\obj\Debug\CandGDatabase.csproj.GenerateResource.Cache
+E:\DropBox\Dropbox\Development\SQL\CandGDatabase\obj\Debug\CandGDatabase.exe
+E:\DropBox\Dropbox\Development\SQL\CandGDatabase\obj\Debug\CandGDatabase.pdb
+E:\DropBox\Dropbox\Development\SQL\CandGDatabase\bin\Debug\AssignmentDatabase.mdf
+E:\DropBox\Dropbox\Development\SQL\CandGDatabase\bin\Debug\AssignmentDatabase_log.ldf

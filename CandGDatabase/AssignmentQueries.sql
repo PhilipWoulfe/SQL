@@ -75,10 +75,13 @@ Request 11
 List the department number and name for all departments where no programmers work. 
 */
 
-Select Distinct Departments.Department_No, Departments.Department_Name from Departments 
-Join Employees on Departments.Department_No = Employees.Department_No
-Join Jobs on Jobs.Job_ID = Employees.Job_ID 
-where exists(Jobs.Job_ID = 'IT_PROG');
+--Select Distinct Departments.Department_No, Departments.Department_Name from Departments 
+--Left Join Employees on Departments.Department_No = Employees.Department_No
+--Right Join Jobs on Jobs.Job_ID = Employees.Job_ID 
+--where Jobs.Job_ID = 'IT_PROG';
+
+Select Distinct Departments.Department_No, Departments.Department_Name from Departments, Jobs
+where Jobs.Job_ID = 'IT_PROG';
 
 /*
 Request 12 
