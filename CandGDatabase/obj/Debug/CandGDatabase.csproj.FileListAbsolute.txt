@@ -10,3 +10,4 @@ E:\DropBox\Dropbox\Development\SQL\CandGDatabase\obj\Debug\CandGDatabase.exe
 E:\DropBox\Dropbox\Development\SQL\CandGDatabase\obj\Debug\CandGDatabase.pdb
 E:\DropBox\Dropbox\Development\SQL\CandGDatabase\bin\Debug\AssignmentDatabase.mdf
 E:\DropBox\Dropbox\Development\SQL\CandGDatabase\bin\Debug\AssignmentDatabase_log.ldf
+E:\DropBox\Dropbox\Development\SQL\CandGDatabase\obj\Debug\CandGDatabase.csprojResolveAssemblyReference.cache
