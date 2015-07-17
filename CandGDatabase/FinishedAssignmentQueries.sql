@@ -75,10 +75,10 @@ List the department number and name for all departments where no programmers wor
 */
 
 
-Select distinct Departments.Department_No, Departments.Department_Name from Departments 
-Join Employees on Departments.Department_No = Employees.Department_No
-Join Jobs on Jobs.Job_ID = Employees.Job_ID
-where  Departments.Department_No not in (Select distinct Department_No from Employees where Employees.Job_ID = 'IT_PROG');
+--Select distinct Departments.Department_No, Departments.Department_Name from Departments 
+--Join Employees on Departments.Department_No = Employees.Department_No
+--Join Jobs on Jobs.Job_ID = Employees.Job_ID
+--where  Departments.Department_No not in (Select distinct Department_No from Employees where Employees.Job_ID like '%PROG%');
 
 /*
 Request 12 
@@ -130,7 +130,26 @@ Create a new view for manager’s details only using all the fields from the emp
 */
 
 --CREATE VIEW Managers 
---	as SELECT * FROM Employees where Employees.Job_ID Like '%MGR%';
+--	as SELECT * FROM Employees where EMployees.Job_ID like '%MGR%';
+--You can't apply a check constraint to a view http://www.techonthenet.com/sql_server/check.php
+
+CREATE TABLE dbo.TwoRows(C INT) INSERT INTO dbo.TwoRows VALUES(1),(1)
+
+GO
+
+CREATE VIEW dbo.FailIfForwardedUserEqualToReceivedByUser
+WITH SCHEMABINDING 
+AS
+  SELECT 1 AS C
+  FROM   dbo.ForwardedRequests FR 
+         INNER JOIN dbo.Requests R 
+           ON R.Id = FR.RequestId AND R.ReceivedByUserId = FR.ForwardedToUserId
+         CROSS JOIN dbo.TwoRows
+
+GO
+
+CREATE UNIQUE CLUSTERED INDEX ix ON 
+     dbo.FailIfForwardedUserEqualToReceivedByUser(C)
 
 /*
 Request 18 
